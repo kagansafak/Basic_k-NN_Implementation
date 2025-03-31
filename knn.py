@@ -30,7 +30,7 @@ data.columns = [
 
 selected_features = [               # this is for manuel feature selection, you can select any features you want
                                     # compare and test different feature sets to see which one performs best                               
-    "Class",                        # If you want only two features, e.g., "Alcohol", "Ash" then:                                
+    #"Class",                       # If you want only two features, e.g., "Alcohol", "Ash" then:                                
     "Alcohol",                      # selected_features = ["Alcohol", "Ash"]
     "Malic_Acid", 
     "Ash", 
